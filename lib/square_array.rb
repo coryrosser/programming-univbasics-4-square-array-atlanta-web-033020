@@ -3,4 +3,5 @@ def square_array(array)
   while i < array.length  do
     puts array[i] ** 2
     counter += 1
+  end
 end
